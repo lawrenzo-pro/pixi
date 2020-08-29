@@ -1,2 +1,3 @@
 # pixi
-An App
+A place for thoughts and Ideas
+
