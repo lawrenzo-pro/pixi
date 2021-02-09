@@ -1,4 +1,9 @@
-let express = require("express")
-let app = express()
+import React from 'react'
+import {render} from 'react-dom'
 
-app.listen(3000)
+let App = (props) => {
+    let element = <div>
+        </div>
+    return element;
+}
+render(<App />,document.getElementById('app');
